@@ -1,7 +1,2 @@
-import 'package:flutter/material.dart';
-
-class Utils {
-  Size getScreenSize() {
-    return MediaQueryData.fromView(WidgetsBinding.instance.window).size;
-  }
-}
+String dummyAvatarImage =
+    'https://i.ytimg.com/vi/UKzxQM4gVXU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGcgZyhnMA8=&rs=AOn4CLB8347xCeWsb3yLK_UZaovrZBevjQ';

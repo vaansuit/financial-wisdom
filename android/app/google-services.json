@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348419784536",
+    "project_id": "financial-wisdom-48e1b",
+    "storage_bucket": "financial-wisdom-48e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348419784536:android:feb2772c4d6a1091a5af2d",
+        "android_client_info": {
+          "package_name": "com.example.financial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348419784536-a71smdburevdf28919sh3ns7dgqkgobu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOF5JvAU3YvIcXTIa5Ixbx8ATwp_rtAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348419784536-a71smdburevdf28919sh3ns7dgqkgobu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
